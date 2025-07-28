@@ -15,4 +15,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francoberlochi&show_icons=true&locale=en" alt="francoberlochi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francoberlochi&" alt="francoberlochi" /></p>
+
